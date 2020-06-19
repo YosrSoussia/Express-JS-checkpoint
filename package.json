@@ -1,0 +1,17 @@
+{
+  "name": "checkpoint2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-and-time": "^0.13.1",
+    "express": "^4.17.1",
+    "node-datetime": "^2.1.2",
+    "nodemon": "^2.0.4"
+  }
+}
