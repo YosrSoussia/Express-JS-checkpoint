@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "date-and-time": "^0.13.1",
+    "date-and-time": "^0.14.2",
     "express": "^4.17.1",
     "node-datetime": "^2.1.2",
     "nodemon": "^2.0.4"
